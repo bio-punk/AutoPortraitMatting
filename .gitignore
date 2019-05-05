@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+portraitFCN_data
+portraitFCN+_data
+/logs
+/Model_zoo/imagenet-vgg-verydeep-19.mat
